@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer specializing in backend development / full-stack web / mobile apps. I enjoy building useful apps and solving problems with clean and well documented code.<br><br>🔭 Currently working on many personal projects <br>🌱 Currently learning AI integration and Prompt Engineering<br>💼 Open to new opportunities<br>📫 Reach me at linabensaid700@gmail.com<br>📍 Based in Sousse, Tunisia<br>🌍 Open to [remote / relocation / hybrid]
+Software Developer specializing in backend development / full-stack web / mobile apps. I enjoy building useful apps and solving problems with clean and well documented code.<br><br>🔭 Currently working on many personal projects <br>🌱 Currently learning AI integration and Prompt Engineering<br>💼 Open to new opportunities<br>📫 Reach me at linabensaid700@gmail.com<br>📍 Based in Sousse, Tunisia<br>🌍 Open to remote / relocation / hybrid
 
 
 ## 🌐 Socials:
